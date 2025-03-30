@@ -8,7 +8,8 @@
 
 2. Make sure that your code contains comments on its stucture and explanations of its purpose.
 
-3. Provide also a report with the textual answers in a separate document. Include screenshots from the Google Cloud web interface (don't use the SCREENSHOT function that Google provides, but take a picture of the graphs you see for the VMs) and result tables, as well as written text about the analysis.
+3. Provide also a report with the textual answers in a separate document.
+4. Include screenshots from the Google Cloud web interface (don't use the SCREENSHOT function that Google provides, but take a picture of the graphs you see for the VMs) and result tables, as well as written text about the analysis.
 
 #### Submission
 
